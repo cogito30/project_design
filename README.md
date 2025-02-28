@@ -1,4 +1,4 @@
-# web_design
+# project_design
 practice web design with figma and powerpoint
 
 ## Project Structure
